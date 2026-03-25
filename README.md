@@ -27,6 +27,6 @@ To secure the application, I recommend the following implementations:
 3. **Information Masking**: Configure the server to suppress version information in HTTP headers.
 
 ## Evidence
-* [**Full Presentation (Canva)**](INSERT_YOUR_LINK_HERE): A detailed visual breakdown of the assessment.
+* [**Full Presentation (Canva)**](https://canva.link/hvje4dr9m2gfyqb): A detailed visual breakdown of the assessment.
 * **Screenshots**: Raw evidence of the Nmap scan and ZAP alerts are included in the repository files.
 *
